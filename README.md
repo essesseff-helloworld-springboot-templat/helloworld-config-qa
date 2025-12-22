@@ -1,4 +1,4 @@
-# hello-world Config - QA
+# helloworld Config - QA
 
 Helm chart for QA environment.
 
@@ -6,8 +6,8 @@ Helm chart for QA environment.
 
 - **Environment**: QA
 - **Auto-Deploy**: Yes (typically by QA Engineer decision via essesseff)
-- **Namespace**: `essesseff-hello-world-flask-template`
-- **Ingress**: `example.com/hello-world-qa`
+- **Namespace**: `essesseff-helloworld-springboot-template`
+- **Ingress**: `example.com/helloworld-qa`
 
 ## Updates
 
