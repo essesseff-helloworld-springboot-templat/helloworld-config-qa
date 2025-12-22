@@ -6,7 +6,7 @@ Helm chart for QA environment.
 
 - **Environment**: QA
 - **Auto-Deploy**: Yes (typically by QA Engineer decision via essesseff)
-- **Namespace**: `essesseff-helloworld-springboot-template`
+- **Namespace**: `essesseff-helloworld-springboot-templat`
 - **Ingress**: `example.com/helloworld-qa`
 
 ## Updates
